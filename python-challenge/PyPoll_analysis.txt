@@ -1,0 +1,6 @@
+Election Results 
+Total Votes: {total_votes} 
+{cand1}: {cand1_per_f}% ({cand1_votes}) 
+{cand2}: {cand2_per_f}% ({cand2_votes}) 
+{cand3}: {cand3_per_f}% ({cand3_votes}) 
+Winner: {winner}
